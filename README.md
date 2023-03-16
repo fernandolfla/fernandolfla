@@ -35,7 +35,8 @@ Meu nome é Luiz Fernando, trabalho com desenvolvimento de software com foco em 
 
 Curiosidades sobre mim:
  - Jogagor de consoles, o que não me faz um derrotado em um PC (ou faz)
- - Professor de Matemática
+ - Tenho uma filha linda que se chama Ahri (isso mesmo, não é apelido, é o nome dela)
+ - Professor de Matemática e Desenvolvedor
  - Moro em São José dos Pinhais
 
 <div align="center">
